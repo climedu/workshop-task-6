@@ -230,6 +230,11 @@ RiTa.isNoun()
 
 I was thinking since the word that can be pluralised is noun the RiTa.isNoun() functions will definitely be paired up with the RiTa.pluralize(word); funtion
 ### Process 1
+Starting by downloading font on [link] (https://www.dafont.com/virust.font)
+
+<img width="400" alt="Screenshot 2025-01-30 at 9 15 36 AM" src="https://github.com/user-attachments/assets/c22ab72a-58a6-44a5-9e52-15709662e47a" />
+
+
 Trying to make the verb become red
 ```ruby
 let userInput;
